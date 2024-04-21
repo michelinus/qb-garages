@@ -23,7 +23,7 @@ Config.Garages = {
             vector4(265.96, -332.3, 44.51, 250.68)
         },
         showBlip = true,
-        blipName = 'Public Parking',
+        blipName = 'Motel Parking',
         blipNumber = 357,
         blipColor = 3,
         type = 'public', -- public, gang, job, depot
@@ -36,7 +36,7 @@ Config.Garages = {
             vector4(895.39, -4.75, 78.35, 146.85)
         },
         showBlip = true,
-        blipName = 'Public Parking',
+        blipName = 'Casino Parking',
         blipNumber = 357,
         blipColor = 3,
         type = 'public',
@@ -49,7 +49,7 @@ Config.Garages = {
             vector4(-341.57, -767.45, 33.56, 92.61)
         },
         showBlip = true,
-        blipName = 'Public Parking',
+        blipName = 'San Andreas Parking',
         blipNumber = 357,
         blipColor = 3,
         type = 'public',
@@ -62,7 +62,7 @@ Config.Garages = {
             vector4(-1145.2, -745.42, 19.26, 108.22)
         },
         showBlip = true,
-        blipName = 'Public Parking',
+        blipName = 'Spanish Ave Parking',
         blipNumber = 357,
         blipColor = 3,
         type = 'public',
@@ -75,20 +75,20 @@ Config.Garages = {
             vector4(60.8, 17.54, 68.82, 339.7)
         },
         showBlip = true,
-        blipName = 'Public Parking',
+        blipName = 'Caears 24 Parking',
         blipNumber = 357,
         blipColor = 3,
         type = 'public',
         category = Config.VehicleClass['car']
     },
     caears242 = {
-        label = 'Caears 24 Parking',
+        label = 'Caears 242 Parking',
         takeVehicle = vector3(-453.7, -786.78, 30.56),
         spawnPoint = {
             vector4(-472.39, -787.71, 30.14, 180.52)
         },
         showBlip = true,
-        blipName = 'Public Parking',
+        blipName = 'Caears 242 Parking',
         blipNumber = 357,
         blipColor = 3,
         type = 'public',
@@ -101,7 +101,7 @@ Config.Garages = {
             vector4(375.09, 294.66, 102.86, 164.04)
         },
         showBlip = true,
-        blipName = 'Public Parking',
+        blipName = 'Laguna Parking',
         blipNumber = 357,
         blipColor = 3,
         type = 'public',
@@ -114,7 +114,7 @@ Config.Garages = {
             vector4(-779.77, -2040.18, 8.47, 315.34)
         },
         showBlip = true,
-        blipName = 'Public Parking',
+        blipName = 'Airport Parking',
         blipNumber = 357,
         blipColor = 3,
         type = 'public',
@@ -127,7 +127,7 @@ Config.Garages = {
             vector4(-1188.14, -1487.95, 3.97, 124.06)
         },
         showBlip = true,
-        blipName = 'Public Parking',
+        blipName = 'Beach Parking',
         blipNumber = 357,
         blipColor = 3,
         type = 'public',
@@ -140,7 +140,7 @@ Config.Garages = {
             vector4(1127.7, 2647.84, 37.58, 1.41)
         },
         showBlip = true,
-        blipName = 'Public Parking',
+        blipName = 'The Motor Hotel Parking',
         blipNumber = 357,
         blipColor = 3,
         type = 'public',
@@ -153,7 +153,7 @@ Config.Garages = {
             vector4(898.38, 3649.41, 32.36, 90.75)
         },
         showBlip = true,
-        blipName = 'Public Parking',
+        blipName = 'Liqour Parking',
         blipNumber = 357,
         blipColor = 3,
         type = 'public',
@@ -166,7 +166,7 @@ Config.Garages = {
             vector4(1725.4, 3716.78, 34.15, 20.54)
         },
         showBlip = true,
-        blipName = 'Public Parking',
+        blipName = 'Shore Parking',
         blipNumber = 357,
         blipColor = 3,
         type = 'public',
@@ -179,7 +179,7 @@ Config.Garages = {
             vector4(62.15, 6403.41, 30.81, 211.38)
         },
         showBlip = true,
-        blipName = 'Public Parking',
+        blipName = 'Bell Farms Parking',
         blipNumber = 357,
         blipColor = 3,
         type = 'public',
@@ -192,7 +192,7 @@ Config.Garages = {
             vector4(168.34, -3236.1, 5.43, 272.05)
         },
         showBlip = true,
-        blipName = 'Public Parking',
+        blipName = 'Dumbo Private Parking',
         blipNumber = 357,
         blipColor = 3,
         type = 'public',
@@ -209,7 +209,7 @@ Config.Garages = {
             vector4(234.42, -802.76, 30.04, 67.2)
         },
         showBlip = true,
-        blipName = 'Public Parking',
+        blipName = 'Pillbox Garage Parking',
         blipNumber = 357,
         blipColor = 3,
         type = 'public',
@@ -222,7 +222,7 @@ Config.Garages = {
             vector4(2550.17, 4681.96, 33.81, 17.05)
         },
         showBlip = true,
-        blipName = 'Public Parking',
+        blipName = 'Grapeseed Parking',
         blipNumber = 357,
         blipColor = 3,
         type = 'public',
